@@ -2,14 +2,15 @@ project:
   type: book
   output-dir: docs
 book:
-  title: "gk2177.github.io"
-  author: "Norah Jones"
-  date: "11/16/2024"
+  title: "Μανιφέστο"
+  author: "Θεώδορος Κολοκοτρώνης"
+  date: "03/25/1821"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
+    - chapter1.qmd
+    #- intro.qmd
+    #- summary.qmd
+    #- references.qmd
 
 bibliography: references.bib
 

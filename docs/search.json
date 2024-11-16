@@ -2,41 +2,41 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "gk2177.github.io",
+    "title": "Μανιφέστο",
     "section": "",
-    "text": "Preface\nThis is not a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2",
+    "text": "Εισαγωγή\nΣὲ γνωρίζω ἀπὸ τὴν κόψι\nτοῦ σπαθιοῦ τὴν τρομερή,\nσὲ γνωρίζω ἀπὸ τὴν ὄψι\nποὺ μὲ βία μετράει τὴν γῆ.\nἈπ’ τὰ κόκαλα βγαλμένη\nτῶν Ἑλλήνων τὰ ἱερά,\nκαὶ σὰν πρῶτα ἀνδρειωμένη,\nχαῖρε, ὦ χαῖρε, Ἐλευθεριά!\n\nΕγώ",
     "crumbs": [
-      "Preface"
-    ]
-  },
-  {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
-    "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+      "Εισαγωγή"
     ]
   },
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "2  Summary",
+    "title": "1  Συνέχεια",
     "section": "",
-    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "text": "Ἐκεῖ μέσα ἐκατοικοῦσες\nπικραμένη, ἐντροπαλή,\nκι ἕνα στόμα ἀκαρτεροῦσες,\n«ἔλα πάλι», νά σοῦ πῇ.\nἌργειε νά’λθῃ ἐκείνη ἡ μέρα,\nκι ἦταν ὅλα σιωπηλά,\nγιατὶ τὰ ’σκιαζε ἡ φοβέρα\nκαὶ τὰ πλάκωνε ἡ σκλαβιά.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Summary</span>"
     ]
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
+    "objectID": "συνέχεια.html",
+    "href": "συνέχεια.html",
+    "title": "1  Συνέχεια",
     "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "Ἐκεῖ μέσα ἐκατοικοῦσες\nπικραμένη, ἐντροπαλή,\nκι ἕνα στόμα ἀκαρτεροῦσες,\n«ἔλα πάλι», νά σοῦ πῇ.\nἌργειε νά’λθῃ ἐκείνη ἡ μέρα,\nκι ἦταν ὅλα σιωπηλά,\nγιατὶ τὰ ’σκιαζε ἡ φοβέρα\nκαὶ τὰ πλάκωνε ἡ σκλαβιά.",
     "crumbs": [
-      "References"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Συνέχεια</span>"
+    ]
+  },
+  {
+    "objectID": "chapter1.html",
+    "href": "chapter1.html",
+    "title": "1  Συνέχεια",
+    "section": "",
+    "text": "Ἐκεῖ μέσα ἐκατοικοῦσες\nπικραμένη, ἐντροπαλή,\nκι ἕνα στόμα ἀκαρτεροῦσες,\n«ἔλα πάλι», νά σοῦ πῇ.\nἌργειε νά’λθῃ ἐκείνη ἡ μέρα,\nκι ἦταν ὅλα σιωπηλά,\nγιατὶ τὰ ’σκιαζε ἡ φοβέρα\nκαὶ τὰ πλάκωνε ἡ σκλαβιά.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Συνέχεια</span>"
     ]
   }
 ]
