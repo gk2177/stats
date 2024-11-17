@@ -1,9 +1,9 @@
 project:
   type: book
   output-dir: docs
+
 book:
   title: "Stats"
-  reader-mode: true
   cover-image: Kolokotronis01.jpg
   favicon: Kolokotronis01.jpg
   
